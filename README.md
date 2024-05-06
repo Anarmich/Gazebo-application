@@ -1,4 +1,4 @@
-# RG
+# Project guide
 ReadMe: Project Update 1
 Code and steps used for this video/project update:
 
